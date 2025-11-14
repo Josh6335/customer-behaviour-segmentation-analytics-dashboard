@@ -1,5 +1,9 @@
 <!-- PROJECT HEADER -->
 <h1 align="center">📊 CUSTOMER BEHAVIOUR & SEGMENTATION ANALYSIS</h1>
+<p align="center">
+  <code>Power BI</code> <code>Excel</code> <code>Data Analysis</code> <code>Dashboard</code>
+</p>
+
 
 <p align="center">
   <i>Insights into Customer Spending, Loyalty & Revenue Performance</i>
@@ -111,9 +115,7 @@ Customers categorized into:
 │
 ├── 📊 Customer Behavior and Segmentation Analysis.pbix
 ├── 📄 Customer Behavior and Segmentation Analysis.pptx
-├── 📁 Dataset
-│   ├── messy_dataset.xlsx
-│   └── clean_dataset.xlsx
+├── 📄 Datasets
 ├── 🖼 Assets
 │   ├── 01_Total_preview.png
 │   ├── 02_Top_preview.png
@@ -155,6 +157,23 @@ Feel free to fork this repo, open an issue, or submit a pull request.
 
 ---
 
+---
+
+## 📧 Contact
+For collaborations or automation projects:  
+📩 **Email:** [Email Me](mailto:musedikutemitope@gmail.com)  
+💬 **WhatsApp:** [Chat on WhatsApp](https://wa.me/2348072240480)  
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/joshua-musediku-510945302)
+
+---
+
 ## ⭐ If you found this project helpful, please give it a star!
+
+---
+
+## 🏷️ Tags
+`customer-segmentation` `data-analysis` `dashboard` `power-bi` `excel` `business-intelligence` `customer-behavior` `data-visualization` `analytics`
+
+---
 
 
