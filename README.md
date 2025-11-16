@@ -108,6 +108,11 @@ Customers categorized into:
 
 ---
 
+
+## 📂 Dataset Source  
+📊 The dataset used for this project was sourced from **Kaggle**.
+
+---
 ## 📁 Project Structure
 
 ```
@@ -128,9 +133,6 @@ Customers categorized into:
 
 ---
 
-
-
----
 
 ## ▶️ How to Use
 
@@ -154,8 +156,6 @@ Customers categorized into:
 
 Have suggestions or improvements?  
 Feel free to fork this repo, open an issue, or submit a pull request.
-
----
 
 ---
 
